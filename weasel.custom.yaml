@@ -1,0 +1,14 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.13.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Wed May 22 13:28:34 2019"
+  rime_version: 1.4.0
+patch:
+  style:
+    color_scheme: psionics
+    font_face: 微软雅黑
+    font_point: 15
+    horizontal: true
+    display_tray_icon: true
+# 

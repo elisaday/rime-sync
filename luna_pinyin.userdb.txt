@@ -1,0 +1,157 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.4.0
+#@/tick	148
+#@/user_id	win10
+a la ke 	阿拉克	c=-1 d=0.0904837 t=148
+a si dun 	阿斯頓	c=0 d=0.152808 t=148
+a si dun kan feng jing 	阿斯頓看風景	c=1 d=0.88692 t=148
+an jian 	案件	c=0 d=0.0923116 t=148
+an jian di san fang 	案件第三方	c=1 d=0.927743 t=148
+ao ku shou dan 	熬枯受淡	c=0 d=0.0900325 t=148
+ba 	吧	c=1 d=0.865022 t=148
+ban ben 	版本	c=1 d=0.715338 t=148
+bao cun 	保存	c=1 d=0.965605 t=148
+bi jiao 	比較	c=3 d=2.37719 t=148
+bian hao 	編號	c=1 d=0.882497 t=148
+bu 	不	c=2 d=1.68045 t=148
+bu cuo 	不錯	c=2 d=1.30819 t=148
+bu jiao 	不叫	c=1 d=0.865022 t=148
+cha yi 	差異	c=1 d=0.826959 t=148
+chu pai 	出牌	c=3 d=1.8306 t=148
+ci dian 	詞典	c=1 d=1 t=148
+cong lai 	從來	c=1 d=0.985112 t=148
+cun fang 	存放	c=1 d=0.839457 t=148
+da fei ji 	打飛機	c=0 d=0.088692 t=148
+da fei ji sa dan kan feng jing 	打飛機撒旦看風景	c=1 d=0.891366 t=148
+da fu du 	大幅度	c=0 d=0.0900325 t=148
+da jia 	大家	c=0 d=0.0891366 t=148
+dai fu kuan 	代付款	c=0 d=0.0913931 t=148
+dan fang jue ding 	單方決定	c=0 d=0.0904837 t=148
+dan fang jue ding kan feng jing kan dian shi 	單方決定看風景看電視	c=1 d=0.909373 t=148
+dan shi 	但是	c=0 d=0.0937067 t=148
+dao 	到	c=1 d=0.818731 t=148
+dao ji shi 	倒計時	c=0 d=0.0946485 t=148
+dao ji shi fu lan ke 	倒計時弗蘭克	c=1 d=0.951229 t=148
+de 	的	c=17 d=14.1262 t=148
+deng 	等	c=4 d=3.43298 t=148
+deng dai 	等待	c=1 d=0.697676 t=148
+di fang 	地方	c=2 d=1.99346 t=148
+di fang di fang 	地方地方	c=1 d=0.913931 t=148
+di fang di fang di fang 	地方地方地方	c=1 d=0.729789 t=148
+di fang jin shi dun kai fa 	地方金士頓開發	c=1 d=0.941765 t=148
+di fang kong jian 	地方空間	c=1 d=0.995012 t=148
+di kang li 	抵抗力	c=0 d=0.0737123 t=148
+di san dai 	第三代	c=0 d=0.0737123 t=148
+di san dai ji fen ka shi jian di kang li fu jin 	第三代計分卡時間抵抗力附近	c=1 d=0.740818 t=148
+di san fang 	第三方	c=0 d=0.0923116 t=148
+dian 	點	c=1 d=0.985112 t=148
+dian feng shan 	電風扇	c=0 d=0.161149 t=148
+dian feng shan dai fu kuan jiang de shi 	電風扇代付款講的是	c=1 d=0.918512 t=148
+diao jie fa 	調節閥	c=0 d=0.0752014 t=148
+ding xiang 	定向	c=1 d=0.810584 t=148
+dong xi 	東西	c=1 d=0.856415 t=148
+dou 	都	c=2 d=1.6997 t=148
+dui fang 	對方	c=1 d=0.744532 t=148
+duo fu duo shou 	多福多壽	c=1 d=0.980199 t=148
+fa 	發	c=1 d=0.767206 t=148
+fa lv 	法律	c=0 d=0.0918512 t=148
+fan dui 	反對	c=0 d=0.0980199 t=148
+fan dui dian feng shan 	反對電風扇	c=1 d=0.985112 t=148
+fang jing dian 	防靜電	c=0 d=0.0941765 t=148
+fang jing dian kai shi fu jin 	防靜電開始附近	c=1 d=0.946485 t=148
+fang shi 	方式	c=0 d=0.0932394 t=148
+fang shi di fang 	方式地方	c=1 d=0.937067 t=148
+feng dao shuang jian 	風刀霜劍	c=0 d=0.0909373 t=148
+feng kuang 	瘋狂	c=0 d=0.0895834 t=148
+feng kuang sheng dan jie 	瘋狂聖誕節	c=1 d=0.900325 t=148
+fong ta 	甮他	c=1 d=0.937067 t=148
+fu jin 	附近	c=0 d=0.348405 t=148
+fu jin a la ke 	附近阿拉克	c=1 d=0.909373 t=148
+fu jin ao ku shou dan 	附近熬枯受淡	c=1 d=0.904837 t=148
+fu jin su du kuai lu fang ji 	附近速度快錄放機	c=1 d=0.946485 t=148
+fu lan ke 	弗蘭克	c=0 d=0.0946485 t=148
+ha ha 	哈哈	c=1 d=0.831104 t=148
+hai 	還	c=2 d=1.30167 t=148
+hao 	好	c=4 d=2.57726 t=148
+hao 	號	c=1 d=0.818731 t=148
+heng pai 	橫排	c=1 d=0.740818 t=148
+ji fen 	積分	c=0 d=0.0937067 t=148
+ji fen ka 	計分卡	c=0 d=0.265724 t=148
+ji fen ka dan shi ji fen 	計分卡但是積分	c=1 d=0.941765 t=148
+ji fen ka di fang 	計分卡地方	c=1 d=0.873716 t=148
+jia fei dou 	咖啡豆	c=0 d=0.0918512 t=148
+jia fei dou kang shi fu 	咖啡豆康師傅	c=1 d=0.923116 t=148
+jian kang 	健康	c=1 d=0.895834 t=148
+jian ku fen dou 	艱苦奮鬥	c=0 d=0.0895834 t=148
+jian ku fen dou shi 	艱苦奮鬥是	c=1 d=0.900325 t=148
+jian ti 	簡體	c=1 d=0.737123 t=148
+jiang de shi 	講的是	c=0 d=0.0913931 t=148
+jiao du kan 	角度看	c=0 d=0.0909373 t=148
+jiao du kan feng dao shuang jian 	角度看風刀霜劍	c=1 d=0.913931 t=148
+jin kou liang 	進口量	c=0 d=0.0900325 t=148
+jin shi dun 	金士頓	c=1 d=1.0261 t=148
+jing an si 	靜安寺	c=0 d=0.0923116 t=148
+jing an si di fang 	靜安寺地方	c=1 d=0.927743 t=148
+jing dong fang 	京東方	c=0 d=0.0744532 t=148
+jiu 	就	c=1 d=0.786628 t=148
+jiu shi 	就是	c=1 d=0.798516 t=148
+ju 	局	c=1 d=0.922495 t=148
+ju di fang kong jian sa dan kan feng jing sa dan 	局地方空間撒旦看風景撒旦	c=1 d=0.918512 t=148
+jue de 	覺得	c=0 d=0.0740818 t=148
+jue de shou fu kuan 	覺得首付款	c=1 d=0.744532 t=148
+jue se 	角色	c=3 d=2.45589 t=148
+kai fa 	開發	c=0 d=0.159084 t=148
+kai shi 	開始	c=0 d=0.0941765 t=148
+kan dao 	看到	c=0 d=0.0878095 t=148
+kan dao shi fou 	看到是否	c=1 d=0.882497 t=148
+kan dian shi 	看電視	c=0 d=0.0904837 t=148
+kan feng jing 	看風景	c=0 d=0.217475 t=148
+kang shi fu 	康師傅	c=0 d=0.0918512 t=148
+kong jian 	空間	c=0 d=0.099005 t=148
+kuai lai 	快來	c=1 d=0.856415 t=148
+la 	啦	c=2 d=1.51159 t=148
+la se 	垃圾	c=0 d=0.0744532 t=148
+la se jing dong fang 	垃圾京東方	c=1 d=0.748264 t=148
+liao jie 	瞭解	c=1 d=0.932394 t=148
+lu fang ji 	錄放機	c=0 d=0.186028 t=148
+lu fang ji a si dun fa lv 	錄放機阿斯頓法律	c=1 d=0.923116 t=148
+mo xing 	模型	c=1 d=0.755784 t=148
+mu lu 	目錄	c=1 d=0.847894 t=148
+ni 	你	c=1 d=0.774916 t=148
+o 	哦	c=3 d=2.13318 t=148
+pei zhi 	配置	c=1 d=0.960789 t=148
+qin shi 	寢室	c=1 d=0.980199 t=148
+qing kong 	清空	c=1 d=0.99005 t=148
+quan bu 	全部	c=1 d=0.726149 t=148
+ri zhi 	日誌	c=1 d=0.83527 t=148
+sa dan 	撒旦	c=1 d=0.973693 t=148
+sa dan kan feng jing 	撒旦看風景	c=1 d=0.960789 t=148
+shao wei 	稍微	c=1 d=0.970446 t=148
+she me 	什麼	c=1 d=0.852144 t=148
+sheng dan jie 	聖誕節	c=1 d=0.858028 t=148
+sheng dan jie deng kai fa 	聖誕節等開發	c=1 d=0.951229 t=148
+shi 	是	c=2 d=1.39334 t=148
+shi diao jie fa 	是調節閥	c=2 d=1.71178 t=148
+shi diao jie fa la 	是調節閥啦	c=1 d=0.955997 t=148
+shi fou 	是否	c=0 d=0.0878095 t=148
+shi hou 	時候	c=1 d=0.701173 t=148
+shi jian 	時間	c=0 d=0.0737123 t=148
+shi yong 	使用	c=1 d=0.860708 t=148
+shou fu kuan 	首付款	c=0 d=0.0740818 t=148
+shu chu 	輸出	c=1 d=0.814647 t=148
+shu liang 	數量	c=0 d=0.0891366 t=148
+shu liang da jia 	數量大家	c=1 d=0.895834 t=148
+shu ru fa 	輸入法	c=1 d=0.839457 t=148
+su du kuai 	速度快	c=1 d=0.965605 t=148
+suo yin 	索引	c=1 d=0.814647 t=148
+wei shen me 	爲什麼	c=7 d=5.17297 t=148
+wo 	我	c=0 d=0.0900325 t=148
+wo da fu du ji fen ka jin kou liang 	我大幅度計分卡進口量	c=1 d=0.904837 t=148
+wo men 	我們	c=1 d=0.97531 t=148
+wu sha mao 	烏紗帽	c=1 d=0.822835 t=148
+yao 	要	c=1 d=0.97531 t=148
+yi dian 	一點	c=1 d=0.99005 t=148
+yong hu 	用戶	c=1 d=0.995012 t=148
+zhe ge 	這個	c=2 d=1.28872 t=148
